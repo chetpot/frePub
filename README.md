@@ -1,3 +1,3 @@
 # frePub
 ## ebook conversion framework
-### frePub.org
+### http://frePub.org
